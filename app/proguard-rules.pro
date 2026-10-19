@@ -1,0 +1,2 @@
+-keep class tj.reitingtest.domain.NativeEngine { *; }
+-keepclasseswithmembernames class * { native <methods>; }

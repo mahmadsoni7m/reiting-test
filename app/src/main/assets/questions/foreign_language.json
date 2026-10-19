@@ -1,0 +1,652 @@
+[
+  {
+    "id": "english_001",
+    "subjectId": "foreign_language",
+    "question": "She ___ a student.",
+    "options": {
+      "A": "is",
+      "B": "am",
+      "C": "are",
+      "D": "be"
+    },
+    "correctAnswer": "A",
+    "explanation": "With \"she\" we use \"is\"."
+  },
+  {
+    "id": "english_002",
+    "subjectId": "foreign_language",
+    "question": "I ___ from Tajikistan.",
+    "options": {
+      "A": "is",
+      "B": "am",
+      "C": "are",
+      "D": "be"
+    },
+    "correctAnswer": "B",
+    "explanation": "With \"I\" we use \"am\"."
+  },
+  {
+    "id": "english_003",
+    "subjectId": "foreign_language",
+    "question": "They ___ football every Sunday.",
+    "options": {
+      "A": "plays",
+      "B": "playing",
+      "C": "play",
+      "D": "played"
+    },
+    "correctAnswer": "C",
+    "explanation": "Present Simple with \"they\" has no -s."
+  },
+  {
+    "id": "english_004",
+    "subjectId": "foreign_language",
+    "question": "He ___ to school yesterday.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "went"
+    },
+    "correctAnswer": "D",
+    "explanation": "\"Went\" is the Past Simple of \"go\"."
+  },
+  {
+    "id": "english_005",
+    "subjectId": "foreign_language",
+    "question": "What is the plural of \"child\"?",
+    "options": {
+      "A": "childs",
+      "B": "children",
+      "C": "childes",
+      "D": "childrens"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"Child\" has an irregular plural: \"children\"."
+  },
+  {
+    "id": "english_006",
+    "subjectId": "foreign_language",
+    "question": "What is the plural of \"man\"?",
+    "options": {
+      "A": "mans",
+      "B": "mens",
+      "C": "men",
+      "D": "manes"
+    },
+    "correctAnswer": "C",
+    "explanation": "\"Man\" has an irregular plural: \"men\"."
+  },
+  {
+    "id": "english_007",
+    "subjectId": "foreign_language",
+    "question": "What is the opposite of \"hot\"?",
+    "options": {
+      "A": "warm",
+      "B": "big",
+      "C": "fast",
+      "D": "cold"
+    },
+    "correctAnswer": "D",
+    "explanation": "\"Cold\" is the opposite of \"hot\"."
+  },
+  {
+    "id": "english_008",
+    "subjectId": "foreign_language",
+    "question": "What is the opposite of \"difficult\"?",
+    "options": {
+      "A": "easy",
+      "B": "hard",
+      "C": "heavy",
+      "D": "tall"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"Easy\" is the opposite of \"difficult\"."
+  },
+  {
+    "id": "english_009",
+    "subjectId": "foreign_language",
+    "question": "She is watching TV ___.",
+    "options": {
+      "A": "yesterday",
+      "B": "every day",
+      "C": "now",
+      "D": "last week"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Present Continuous is used with \"now\"."
+  },
+  {
+    "id": "english_010",
+    "subjectId": "foreign_language",
+    "question": "I have ___ apple.",
+    "options": {
+      "A": "a",
+      "B": "the",
+      "C": "some of",
+      "D": "an"
+    },
+    "correctAnswer": "D",
+    "explanation": "We use \"an\" before a vowel sound."
+  },
+  {
+    "id": "english_011",
+    "subjectId": "foreign_language",
+    "question": "___ you speak English?",
+    "options": {
+      "A": "Do",
+      "B": "Does",
+      "C": "Are",
+      "D": "Is"
+    },
+    "correctAnswer": "A",
+    "explanation": "In Present Simple questions with \"you\" we use \"do\"."
+  },
+  {
+    "id": "english_012",
+    "subjectId": "foreign_language",
+    "question": "This is my brother. ___ name is Ali.",
+    "options": {
+      "A": "Her",
+      "B": "His",
+      "C": "Its",
+      "D": "Their"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"His\" refers to a male person."
+  },
+  {
+    "id": "english_013",
+    "subjectId": "foreign_language",
+    "question": "There ___ two books on the table.",
+    "options": {
+      "A": "is",
+      "B": "be",
+      "C": "was",
+      "D": "are"
+    },
+    "correctAnswer": "D",
+    "explanation": "\"Books\" is plural, so we use \"are\"."
+  },
+  {
+    "id": "english_014",
+    "subjectId": "foreign_language",
+    "question": "She is ___ than her sister. (tall)",
+    "options": {
+      "A": "taller",
+      "B": "tallest",
+      "C": "more tall",
+      "D": "most tall"
+    },
+    "correctAnswer": "A",
+    "explanation": "Short adjectives form the comparative with -er."
+  },
+  {
+    "id": "english_015",
+    "subjectId": "foreign_language",
+    "question": "He is the ___ student in the class. (good)",
+    "options": {
+      "A": "better",
+      "B": "best",
+      "C": "goodest",
+      "D": "most good"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"Good – better – best\" is irregular."
+  },
+  {
+    "id": "english_016",
+    "subjectId": "foreign_language",
+    "question": "This book is ___ interesting than that one.",
+    "options": {
+      "A": "most",
+      "B": "much",
+      "C": "more",
+      "D": "many"
+    },
+    "correctAnswer": "C",
+    "explanation": "Long adjectives use \"more\" for comparison."
+  },
+  {
+    "id": "english_017",
+    "subjectId": "foreign_language",
+    "question": "I am interested ___ music.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "for"
+    },
+    "correctAnswer": "A",
+    "explanation": "We say \"interested in\"."
+  },
+  {
+    "id": "english_018",
+    "subjectId": "foreign_language",
+    "question": "We go to the university ___ bus.",
+    "options": {
+      "A": "on",
+      "B": "by",
+      "C": "at",
+      "D": "with"
+    },
+    "correctAnswer": "B",
+    "explanation": "We say \"by bus\"."
+  },
+  {
+    "id": "english_019",
+    "subjectId": "foreign_language",
+    "question": "I usually get up ___ 6 o'clock.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "correctAnswer": "C",
+    "explanation": "We use \"at\" with clock times."
+  },
+  {
+    "id": "english_020",
+    "subjectId": "foreign_language",
+    "question": "The book is ___ the table.",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "to",
+      "D": "on"
+    },
+    "correctAnswer": "D",
+    "explanation": "\"On\" shows contact with a surface."
+  },
+  {
+    "id": "english_021",
+    "subjectId": "foreign_language",
+    "question": "What is the past tense of \"buy\"?",
+    "options": {
+      "A": "buyed",
+      "B": "bought",
+      "C": "boughten",
+      "D": "buys"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"Buy – bought – bought\" is irregular."
+  },
+  {
+    "id": "english_022",
+    "subjectId": "foreign_language",
+    "question": "What is the past tense of \"write\"?",
+    "options": {
+      "A": "writed",
+      "B": "written",
+      "C": "wrote",
+      "D": "writes"
+    },
+    "correctAnswer": "C",
+    "explanation": "\"Write – wrote – written\"."
+  },
+  {
+    "id": "english_023",
+    "subjectId": "foreign_language",
+    "question": "I ___ my homework already.",
+    "options": {
+      "A": "did",
+      "B": "do",
+      "C": "am doing",
+      "D": "have done"
+    },
+    "correctAnswer": "D",
+    "explanation": "\"Already\" is used with the Present Perfect."
+  },
+  {
+    "id": "english_024",
+    "subjectId": "foreign_language",
+    "question": "She ___ English since 2020.",
+    "options": {
+      "A": "has studied",
+      "B": "studies",
+      "C": "studied",
+      "D": "is studying"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"Since\" is used with the Present Perfect."
+  },
+  {
+    "id": "english_025",
+    "subjectId": "foreign_language",
+    "question": "If it rains, we ___ at home.",
+    "options": {
+      "A": "stayed",
+      "B": "would stay",
+      "C": "will stay",
+      "D": "are staying"
+    },
+    "correctAnswer": "C",
+    "explanation": "First conditional: if + Present Simple, will + verb."
+  },
+  {
+    "id": "english_026",
+    "subjectId": "foreign_language",
+    "question": "He ___ a car.",
+    "options": {
+      "A": "don't have",
+      "B": "isn't have",
+      "C": "hasn't had",
+      "D": "doesn't have"
+    },
+    "correctAnswer": "D",
+    "explanation": "Negative of Present Simple with \"he\": \"doesn't have\"."
+  },
+  {
+    "id": "english_027",
+    "subjectId": "foreign_language",
+    "question": "Which word is a noun?",
+    "options": {
+      "A": "teacher",
+      "B": "quickly",
+      "C": "beautiful",
+      "D": "run"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"Teacher\" is a person, so it is a noun."
+  },
+  {
+    "id": "english_028",
+    "subjectId": "foreign_language",
+    "question": "___ sun is hot in summer.",
+    "options": {
+      "A": "A",
+      "B": "The",
+      "C": "An",
+      "D": "Some"
+    },
+    "correctAnswer": "B",
+    "explanation": "We use \"the\" for unique things like the sun."
+  },
+  {
+    "id": "english_029",
+    "subjectId": "foreign_language",
+    "question": "What day comes after Monday?",
+    "options": {
+      "A": "Sunday",
+      "B": "Wednesday",
+      "C": "Friday",
+      "D": "Tuesday"
+    },
+    "correctAnswer": "D",
+    "explanation": "Tuesday follows Monday."
+  },
+  {
+    "id": "english_030",
+    "subjectId": "foreign_language",
+    "question": "What month comes after March?",
+    "options": {
+      "A": "April",
+      "B": "February",
+      "C": "May",
+      "D": "June"
+    },
+    "correctAnswer": "A",
+    "explanation": "April follows March."
+  },
+  {
+    "id": "english_031",
+    "subjectId": "foreign_language",
+    "question": "Your mother's sister is your ___.",
+    "options": {
+      "A": "cousin",
+      "B": "aunt",
+      "C": "niece",
+      "D": "sister-in-law"
+    },
+    "correctAnswer": "B",
+    "explanation": "An aunt is a parent's sister."
+  },
+  {
+    "id": "english_032",
+    "subjectId": "foreign_language",
+    "question": "How much is this book? asks about ___.",
+    "options": {
+      "A": "the weight",
+      "B": "the time",
+      "C": "the price",
+      "D": "the colour"
+    },
+    "correctAnswer": "C",
+    "explanation": "\"How much\" asks for the price."
+  },
+  {
+    "id": "english_033",
+    "subjectId": "foreign_language",
+    "question": "Which question word asks about a place?",
+    "options": {
+      "A": "Where",
+      "B": "When",
+      "C": "Why",
+      "D": "Who"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"Where\" asks about a place."
+  },
+  {
+    "id": "english_034",
+    "subjectId": "foreign_language",
+    "question": "Which question word asks about a reason?",
+    "options": {
+      "A": "Where",
+      "B": "Why",
+      "C": "Whose",
+      "D": "Which"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"Why\" asks for a reason."
+  },
+  {
+    "id": "english_035",
+    "subjectId": "foreign_language",
+    "question": "\"Thank you.\" – \"___\".",
+    "options": {
+      "A": "Good night.",
+      "B": "See you.",
+      "C": "You're welcome.",
+      "D": "Excuse me."
+    },
+    "correctAnswer": "C",
+    "explanation": "\"You're welcome\" is the usual reply to thanks."
+  },
+  {
+    "id": "english_036",
+    "subjectId": "foreign_language",
+    "question": "The letter ___ by Ali yesterday.",
+    "options": {
+      "A": "wrote",
+      "B": "is writing",
+      "C": "has write",
+      "D": "was written"
+    },
+    "correctAnswer": "D",
+    "explanation": "Passive voice in the past: was/were + past participle."
+  },
+  {
+    "id": "english_037",
+    "subjectId": "foreign_language",
+    "question": "You ___ stop at a red light.",
+    "options": {
+      "A": "may not",
+      "B": "must",
+      "C": "can",
+      "D": "would"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"Must\" expresses obligation."
+  },
+  {
+    "id": "english_038",
+    "subjectId": "foreign_language",
+    "question": "I ___ when he called.",
+    "options": {
+      "A": "sleep",
+      "B": "am sleeping",
+      "C": "was sleeping",
+      "D": "sleeps"
+    },
+    "correctAnswer": "C",
+    "explanation": "Past Continuous describes an action in progress."
+  },
+  {
+    "id": "english_039",
+    "subjectId": "foreign_language",
+    "question": "This book belongs to me. It is ___.",
+    "options": {
+      "A": "my",
+      "B": "me",
+      "C": "I",
+      "D": "mine"
+    },
+    "correctAnswer": "D",
+    "explanation": "\"Mine\" is a possessive pronoun."
+  },
+  {
+    "id": "english_040",
+    "subjectId": "foreign_language",
+    "question": "How ___ students are there in your group?",
+    "options": {
+      "A": "many",
+      "B": "much",
+      "C": "little",
+      "D": "lot"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"Many\" is used with countable nouns."
+  },
+  {
+    "id": "english_041",
+    "subjectId": "foreign_language",
+    "question": "I look forward to ___ you.",
+    "options": {
+      "A": "see",
+      "B": "saw",
+      "C": "seeing",
+      "D": "seen"
+    },
+    "correctAnswer": "C",
+    "explanation": "After \"look forward to\" we use the -ing form."
+  },
+  {
+    "id": "english_042",
+    "subjectId": "foreign_language",
+    "question": "Which word is a synonym of \"big\"?",
+    "options": {
+      "A": "tiny",
+      "B": "thin",
+      "C": "slow",
+      "D": "large"
+    },
+    "correctAnswer": "D",
+    "explanation": "\"Large\" has a similar meaning to \"big\"."
+  },
+  {
+    "id": "english_043",
+    "subjectId": "foreign_language",
+    "question": "A library is a place where you can ___.",
+    "options": {
+      "A": "borrow books",
+      "B": "buy shoes",
+      "C": "catch fish",
+      "D": "park cars"
+    },
+    "correctAnswer": "A",
+    "explanation": "Libraries lend books."
+  },
+  {
+    "id": "english_044",
+    "subjectId": "foreign_language",
+    "question": "Which sentence is correct?",
+    "options": {
+      "A": "She don't like tea.",
+      "B": "She doesn't like tea.",
+      "C": "She not like tea.",
+      "D": "She doesn't likes tea."
+    },
+    "correctAnswer": "B",
+    "explanation": "After \"doesn't\" we use the base form."
+  },
+  {
+    "id": "english_045",
+    "subjectId": "foreign_language",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "He have lived here for ten years.",
+      "B": "He living here for ten years.",
+      "C": "He live here since ten years.",
+      "D": "He has lived here for ten years."
+    },
+    "correctAnswer": "D",
+    "explanation": "\"Has\" goes with he/she/it in the Present Perfect."
+  },
+  {
+    "id": "english_046",
+    "subjectId": "foreign_language",
+    "question": "Neither Ali ___ Karim was late.",
+    "options": {
+      "A": "nor",
+      "B": "or",
+      "C": "and",
+      "D": "but"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"Neither ... nor ...\" is a fixed pair."
+  },
+  {
+    "id": "english_047",
+    "subjectId": "foreign_language",
+    "question": "___ car is new. (it belongs to them)",
+    "options": {
+      "A": "There",
+      "B": "Their",
+      "C": "They're",
+      "D": "Them"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"Their\" shows possession."
+  },
+  {
+    "id": "english_048",
+    "subjectId": "foreign_language",
+    "question": "The opposite of \"arrive\" is ___.",
+    "options": {
+      "A": "come",
+      "B": "enter",
+      "C": "leave",
+      "D": "stay"
+    },
+    "correctAnswer": "C",
+    "explanation": "\"Arrive\" and \"leave\" are opposites."
+  },
+  {
+    "id": "english_049",
+    "subjectId": "foreign_language",
+    "question": "A university is a place of ___.",
+    "options": {
+      "A": "higher education",
+      "B": "shopping",
+      "C": "sport only",
+      "D": "medical treatment"
+    },
+    "correctAnswer": "A",
+    "explanation": "Students study there after school."
+  },
+  {
+    "id": "english_050",
+    "subjectId": "foreign_language",
+    "question": "My brother ___ in Dushanbe.",
+    "options": {
+      "A": "live",
+      "B": "lives",
+      "C": "living",
+      "D": "lived"
+    },
+    "correctAnswer": "B",
+    "explanation": "With \"he/she/it\" the Present Simple verb takes -s."
+  }
+]

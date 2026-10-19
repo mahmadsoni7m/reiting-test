@@ -1,0 +1,50 @@
+She ___ a student. ;; is ;; am ;; are ;; be ;; With "she" we use "is".
+I ___ from Tajikistan. ;; am ;; is ;; are ;; be ;; With "I" we use "am".
+They ___ football every Sunday. ;; play ;; plays ;; playing ;; played ;; Present Simple with "they" has no -s.
+He ___ to school yesterday. ;; went ;; go ;; goes ;; going ;; "Went" is the Past Simple of "go".
+What is the plural of "child"? ;; children ;; childs ;; childes ;; childrens ;; "Child" has an irregular plural: "children".
+What is the plural of "man"? ;; men ;; mans ;; mens ;; manes ;; "Man" has an irregular plural: "men".
+What is the opposite of "hot"? ;; cold ;; warm ;; big ;; fast ;; "Cold" is the opposite of "hot".
+What is the opposite of "difficult"? ;; easy ;; hard ;; heavy ;; tall ;; "Easy" is the opposite of "difficult".
+She is watching TV ___. ;; now ;; yesterday ;; every day ;; last week ;; The Present Continuous is used with "now".
+I have ___ apple. ;; an ;; a ;; the ;; some of ;; We use "an" before a vowel sound.
+___ you speak English? ;; Do ;; Does ;; Are ;; Is ;; In Present Simple questions with "you" we use "do".
+This is my brother. ___ name is Ali. ;; His ;; Her ;; Its ;; Their ;; "His" refers to a male person.
+There ___ two books on the table. ;; are ;; is ;; be ;; was ;; "Books" is plural, so we use "are".
+She is ___ than her sister. (tall) ;; taller ;; tallest ;; more tall ;; most tall ;; Short adjectives form the comparative with -er.
+He is the ___ student in the class. (good) ;; best ;; better ;; goodest ;; most good ;; "Good – better – best" is irregular.
+This book is ___ interesting than that one. ;; more ;; most ;; much ;; many ;; Long adjectives use "more" for comparison.
+I am interested ___ music. ;; in ;; on ;; at ;; for ;; We say "interested in".
+We go to the university ___ bus. ;; by ;; on ;; at ;; with ;; We say "by bus".
+I usually get up ___ 6 o'clock. ;; at ;; in ;; on ;; by ;; We use "at" with clock times.
+The book is ___ the table. ;; on ;; in ;; at ;; to ;; "On" shows contact with a surface.
+What is the past tense of "buy"? ;; bought ;; buyed ;; boughten ;; buys ;; "Buy – bought – bought" is irregular.
+What is the past tense of "write"? ;; wrote ;; writed ;; written ;; writes ;; "Write – wrote – written".
+I ___ my homework already. ;; have done ;; did ;; do ;; am doing ;; "Already" is used with the Present Perfect.
+She ___ English since 2020. ;; has studied ;; studies ;; studied ;; is studying ;; "Since" is used with the Present Perfect.
+If it rains, we ___ at home. ;; will stay ;; stayed ;; would stay ;; are staying ;; First conditional: if + Present Simple, will + verb.
+He ___ a car. ;; doesn't have ;; don't have ;; isn't have ;; hasn't had ;; Negative of Present Simple with "he": "doesn't have".
+Which word is a noun? ;; teacher ;; quickly ;; beautiful ;; run ;; "Teacher" is a person, so it is a noun.
+___ sun is hot in summer. ;; The ;; A ;; An ;; Some ;; We use "the" for unique things like the sun.
+What day comes after Monday? ;; Tuesday ;; Sunday ;; Wednesday ;; Friday ;; Tuesday follows Monday.
+What month comes after March? ;; April ;; February ;; May ;; June ;; April follows March.
+Your mother's sister is your ___. ;; aunt ;; cousin ;; niece ;; sister-in-law ;; An aunt is a parent's sister.
+How much is this book? asks about ___. ;; the price ;; the weight ;; the time ;; the colour ;; "How much" asks for the price.
+Which question word asks about a place? ;; Where ;; When ;; Why ;; Who ;; "Where" asks about a place.
+Which question word asks about a reason? ;; Why ;; Where ;; Whose ;; Which ;; "Why" asks for a reason.
+"Thank you." – "___". ;; You're welcome. ;; Good night. ;; See you. ;; Excuse me. ;; "You're welcome" is the usual reply to thanks.
+The letter ___ by Ali yesterday. ;; was written ;; wrote ;; is writing ;; has write ;; Passive voice in the past: was/were + past participle.
+You ___ stop at a red light. ;; must ;; may not ;; can ;; would ;; "Must" expresses obligation.
+I ___ when he called. ;; was sleeping ;; sleep ;; am sleeping ;; sleeps ;; Past Continuous describes an action in progress.
+This book belongs to me. It is ___. ;; mine ;; my ;; me ;; I ;; "Mine" is a possessive pronoun.
+How ___ students are there in your group? ;; many ;; much ;; little ;; lot ;; "Many" is used with countable nouns.
+I look forward to ___ you. ;; seeing ;; see ;; saw ;; seen ;; After "look forward to" we use the -ing form.
+Which word is a synonym of "big"? ;; large ;; tiny ;; thin ;; slow ;; "Large" has a similar meaning to "big".
+A library is a place where you can ___. ;; borrow books ;; buy shoes ;; catch fish ;; park cars ;; Libraries lend books.
+Which sentence is correct? ;; She doesn't like tea. ;; She don't like tea. ;; She not like tea. ;; She doesn't likes tea. ;; After "doesn't" we use the base form.
+Choose the correct sentence. ;; He has lived here for ten years. ;; He have lived here for ten years. ;; He living here for ten years. ;; He live here since ten years. ;; "Has" goes with he/she/it in the Present Perfect.
+Neither Ali ___ Karim was late. ;; nor ;; or ;; and ;; but ;; "Neither ... nor ..." is a fixed pair.
+___ car is new. (it belongs to them) ;; Their ;; There ;; They're ;; Them ;; "Their" shows possession.
+The opposite of "arrive" is ___. ;; leave ;; come ;; enter ;; stay ;; "Arrive" and "leave" are opposites.
+A university is a place of ___. ;; higher education ;; shopping ;; sport only ;; medical treatment ;; Students study there after school.
+My brother ___ in Dushanbe. ;; lives ;; live ;; living ;; lived ;; With "he/she/it" the Present Simple verb takes -s.
